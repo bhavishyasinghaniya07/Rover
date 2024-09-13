@@ -1,0 +1,141 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.loginf{
+    background-image: url("https://img.traveltriangle.com/public-product/homepage_illustrations/hero_general.gif?tr=w-3000,h-800");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    
+    align-items: center;
+  
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.loginForm{
+    background-color:rgb(254, 240, 222);
+    margin-left: 60vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 55vh;
+    width: 300px;
+    border: 0.1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#login{
+    margin: 5px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+
+#email{
+    margin-top: 50px;
+    padding: 8px;
+
+}
+
+
+#pass{
+    margin-top: 10px;
+    padding: 8px;
+
+}
+
+#frgt{
+    margin: 15px;
+    margin-right: 120px;
+    font-size: 10px;
+    cursor: pointer;
+
+}
+
+#btn{
+    margin-top: 40px;
+    padding: 8px;
+    width: 175px;
+    cursor: pointer;
+}
+
+#signup{
+    margin: 15px;
+    cursor: pointer;
+    font-size: 10px;
+}
+
+
+
+
+
+/* signup form CSS  */
+
+
+.signupForm{
+    background-color:rgb(254, 240, 222);
+    margin-left: 60vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 65vh;
+    width: 300px;
+    border: 0.1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+
+
+#fname{
+    margin-top: 40px;
+    padding: 8px;
+
+}
+
+#mail{
+   
+    padding: 8px;
+}
+
+#pass2{
+    margin-top: 10px;
+    padding: 8px;
+}
+
+#pass22{
+    margin-top: 10px;
+    padding: 8px;
+}
+
+#phone{
+    margin-top: 10px;
+    padding: 8px;
+}
+
+.but{
+    margin-top: 40px;
+    padding: 8px;
+    width: 175px;
+    cursor: pointer;
+}
+
+#login2{
+    
+        margin: 15px;
+        cursor: pointer;
+        font-size: 10px;
+    
+}
+
